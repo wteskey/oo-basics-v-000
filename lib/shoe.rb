@@ -10,6 +10,6 @@ class Shoe
 
   def cobble
     @condition = "new" # change condition from "old" and returns => "new"
-    #binding.pry
+    
     puts "Your shoe is as good as new!"
   end
